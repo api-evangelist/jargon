@@ -9,8 +9,8 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Design
-  - Domains
   - Domain Driven Design
+  - Domains
   - Platform
 url: >-
   https://raw.githubusercontent.com/api-evangelist/jargon/refs/heads/main/apis.yml
@@ -26,8 +26,8 @@ apis:
       domain modelling and API design capabilities.
     humanURL: https://jargon.sh/
     tags:
-      - Domain Driven Design
       - API Design
+      - Domain Driven Design
       - Modelling
     properties:
       - type: Documentation
