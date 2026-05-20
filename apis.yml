@@ -42,6 +42,10 @@ apis:
       - type: Website
         url: https://jargon.sh/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/JargonInc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/jargon-com
   - type: Website
     url: https://jargon.sh/
   - type: Documentation
