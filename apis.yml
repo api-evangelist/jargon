@@ -26,6 +26,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jargon.png
 tags:
   - API Design
   - Data Modelling
+  - Domain-Driven Design
+  - Domains
+  - JSON-Schema
+  - OpenAPI
+  - Platform
+tags_raw:
+  - API Design
+  - Data Modelling
   - Domain Driven Design
   - Domains
   - JSON Schema
@@ -45,6 +53,10 @@ apis:
       JSON-LD artifacts. A public REST API is not currently published.
     humanURL: https://jargon.sh/
     tags:
+      - API Design
+      - Domain-Driven Design
+      - Modelling
+    tags_raw:
       - API Design
       - Domain Driven Design
       - Modelling
