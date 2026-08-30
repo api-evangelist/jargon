@@ -37,7 +37,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jargon.png
 tags:
   - API Design
   - Data Modelling
-  - Domain-Driven Design
+  - Domain Driven Design
   - Domains
   - JSON-Schema
   - OpenAPI
@@ -65,7 +65,7 @@ apis:
     humanURL: https://jargon.sh/
     tags:
       - API Design
-      - Domain-Driven Design
+      - Domain Driven Design
       - Modelling
     tags_raw:
       - API Design
