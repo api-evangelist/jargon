@@ -37,6 +37,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jargon.png
 tags:
   - API Design
   - Data Modelling
+  - Developer Tools
   - Domain-Driven Design
   - Domains
   - JSON-Schema
