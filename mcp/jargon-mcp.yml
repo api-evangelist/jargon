@@ -16,10 +16,18 @@ deployment:
 tools_count: 3
 tools:
 - name: search_domains
-  description: ''
+  description: STAGE 1 of 3 (Discover). Search published Jargon Domains by name, description, definitions,
+    release notes, and model content. Returns a ranked shortlist only — not enough detail to evaluate
+    fit or build from. For each promising result, call
 - name: get_domain_definition
-  description: ''
+  description: STAGE 2 of 3 (Evaluate). Get the complete human-authored definition of one immutable, published
+    Jargon Domain release — its information model, definitions, mappings, code tables, lifecycle definitions,
+    and other authored semantic content. T
 - name: get_resolved_domain
-  description: ''
+  description: 'STAGE 3 of 3 (Implement). Get Jargon''s authoritative compiler-resolved semantic model
+    for one immutable, published Domain release: resolved imports, concrete types, inheritance, ownership,
+    and constraints. This is the ONLY output suitable f'
 tools_source: live tools/list via initialize handshake, 2026-09-12 (signals/audit_mcp_authorship.py --probe)
 authorship: provider
+descriptions_source: live tools/list (authorship probe or saved capture); filled by backfill-tools-from-authorship.py
+  --descriptions, 2026-09-28
