@@ -34,12 +34,16 @@ accessModel:
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jargon.png
+x-docs-platform: docsify
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-10-03
+x-docs-hosting: github-pages
 tags:
   - API Design
   - Data Modelling
   - Domain-Driven Design
   - Domains
-  - JSON-Schema
+  - JSON Schema
   - OpenAPI
   - Platform
 tags_raw:
@@ -50,6 +54,7 @@ tags_raw:
   - JSON Schema
   - OpenAPI
   - Platform
+  - JSON-Schema
 url: >-
   https://raw.githubusercontent.com/api-evangelist/jargon/refs/heads/main/apis.yml
 created: '2025-01-08'
