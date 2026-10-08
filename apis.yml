@@ -82,6 +82,12 @@ apis:
       - type: Website
         url: https://jargon.sh/
 common:
+  - type: Plans
+    url: plans/jargon-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/jargon-rate-limits.yml
+  - type: FinOps
+    url: finops/jargon-finops.yml
   - type: DomainSecurity
     url: security/jargon-domain-security.yml
   - type: GitHubOrganization
